@@ -1,2 +1,1 @@
-echo i am here
-date 
+echo 'i am here'
